@@ -1,9 +1,5 @@
 ### 1. Fernando, o Residente Novato
 
-Dê um nome representativo à persona para facilitar a identificação e a comunicação dentro da equipe.
-
-**Exemplo:** Ana, a Recepcionista da Clínica
-
 ### 2. Descrição da Persona
 
 Perfil: Fernando tem 26 anos e é residente no primeiro ano de Medicina em um grande hospital universitário. Ele está entusiasmado com a sua nova carreira, mas também se sente pressionado pela responsabilidade de realizar anamneses precisas e detalhadas. Fernando é diligente e dedicado, mas às vezes fica nervoso ao relatar informações ao seu supervisor ou durante as discussões de casos com a equipe médica, especialmente em situações de alta pressão.
