@@ -1,4 +1,6 @@
 # Assistente Inteligente para Anamnese Hospitalar
 ## Exemplo do src/.env
+```
 OPENAI_ASSISTANT_ID=...
 OPENAI_API_KEY=...
+```
