@@ -1,8 +1,5 @@
 # Canvas de Mapeamento de Fontes de Dados
 Link: https://www.kaggle.com/datasets/choongqianzheng/disease-and-symptoms-dataset
-## Instruções de Preenchimento
-
-Preencha cada seção deste canvas para mapear as fontes de dados relevantes para a solução de IA. Este documento ajudará a identificar e organizar as fontes de dados necessárias para a construção e treinamento do modelo de IA.
 
 ### 1. Nome da Fonte de Dados
 
